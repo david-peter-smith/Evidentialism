@@ -1,12 +1,10 @@
 # Evidentialism
 
-
-1. Make my changes
-    1. Fix bug
-    2. Improve formatting
-        - Make the headings bigger
-2. Push my commits to GitHub
-3. Open a pull request
-    * Describe my changes
-    * Mention all the members of my team
-        * Ask for feedback
+1. I Exist
+    1. I can perceive my own consciousness of thought
+    2. Reality Exists
+2. I experiance the world though my senses
+    1. My senses are sometimes accurate
+3. Facts and Theories can be pragmatically determined though my senses
+    1. Observations about reality can be identified as facts
+    2. Therories can be formed based on knowledge of facts and/or other theories
