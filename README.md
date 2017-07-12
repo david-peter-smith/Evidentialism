@@ -1,9 +1,12 @@
 # Evidentialism
 
-1. I Exist
-..* I can perceive my own consciousness of thought
-..* Reality Exists
-2. I experiance the world though my senses
-..* My senses are sometimes accurate
-3. Facts and Theories can be reasonably determined though perceptions
-4. Through a process we can determine what is pragmatically true
+
+1. Make my changes
+    1. Fix bug
+    2. Improve formatting
+        - Make the headings bigger
+2. Push my commits to GitHub
+3. Open a pull request
+    * Describe my changes
+    * Mention all the members of my team
+        * Ask for feedback
