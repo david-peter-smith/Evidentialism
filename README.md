@@ -10,8 +10,12 @@
 2. I experiance the world though my senses
     1. My senses are sometimes accurate
         - I have multiple senses which can corroborate or contradict each other
-3. Facts and Theories can be pragmatically determined though my senses
+3. Evidence can be pragmatically determined though my senses
     1. Observations about reality can be identified as facts
-    2. Therories can be formed based on knowledge of facts and/or other theories
-4. Facts and Theories which are more measurably predictive, accurate, and valid supersede others.
+    2. Therories can be formed based on knowledge of facts and/or other theories.
+4. Evidence can be evaluated to determine it's alignment to reality.
+    1. Evidence tested to be more closely aligned with reality is more accurately reveals the nature of reality
+    2. Reality has the key attribute of consistincy which makes it predictable
+5. Theories with greater predictive capability of reality supersede other Theories
+    1. Predictive capability requires validity, consistiency, and accuracy
 
