@@ -1,5 +1,7 @@
 # Evidentialism
 
+## Epistemologically how do you know something to be true?
+
 1. I Exist
     1. I can perceive my own consciousness of thought
     2. Reality Exists
@@ -11,3 +13,5 @@
 3. Facts and Theories can be pragmatically determined though my senses
     1. Observations about reality can be identified as facts
     2. Therories can be formed based on knowledge of facts and/or other theories
+4. Facts and Theories which are more measurably predictive, accurate, and valid supersede others.
+
