@@ -10,7 +10,7 @@
 2. I experiance the world though my senses
     1. My senses are sometimes accurate
         - I have multiple senses which can corroborate or contradict each other
-3. Evidence can be pragmatically determined though my senses
+3. Evidence can be determined though my senses
     1. Observations about reality can be identified as facts
     2. Therories can be formed based on knowledge of facts and/or other theories.
     3. Evidence is a collection of Facts and Theroies
